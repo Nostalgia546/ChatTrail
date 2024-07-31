@@ -5,7 +5,7 @@
 ![微信图片_20240725211359](https://github.com/user-attachments/assets/507e880c-064f-43ef-9537-4f94af290beb)
 ![image](https://github.com/user-attachments/assets/65b6d9a2-a7a6-44e9-83fe-1524991d2d39)
 ## AI聊天功能
-可以使用与OpenAI兼容的API格式来实现AI聊天，选择对应的模型会出现对应的设置选项，比如说绘画模型就有比例、风格和速度，文字模型有上下文长度......但是目前文字模型的参数设置还没有写，之后我会尽快加上，现在的上下文长度就是放在那占个位置，目前我只使用deepseek测试过，是可以用的
+可以使用与OpenAI兼容的API来实现AI聊天，选择对应的模型会出现对应的设置选项，比如说绘画模型就有比例、风格和速度，文字模型有上下文长度......但是目前文字模型的参数设置还没有写，之后我会尽快加上，现在的上下文长度就是放在那占个位置，目前我只使用deepseek测试过，是可以用的
 ![image](https://github.com/user-attachments/assets/7fc4f610-c3f9-4997-ac36-c61507529b24)
 ![image](https://github.com/user-attachments/assets/9d43b202-28e0-4af8-bb80-4a4fa90d19ed)
 ## 使用教程
